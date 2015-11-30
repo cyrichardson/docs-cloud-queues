@@ -18,8 +18,6 @@ Learn how to use the Rackspace Cloud Queues service by using the REST API.
     Cloud Queues <self>
     API Status <http://www.rackspacestatus.com/>
     About the API <overview/index>
-    getting-started
-    getting-started/index
     developer-guide
     concepts
     general-api-info/index
